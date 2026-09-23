@@ -21,8 +21,10 @@ links:
 It lets a team ground its security testing in the NIST methodology: "our assessment
 *satisfies* `nist800115:SR-0009` (vulnerability scanning)", "we follow
 `nist800115:SR-0017` (rules of engagement)" — checked structurally by
-`tl-compose check --strict`. It pairs naturally with the GOV.UK "Vulnerability and
-penetration testing" guidance in `throughline-govuk-testing`.
+`tl check --strict` in the consuming project, which composes this source with `tl` from
+[throughline](https://pypi.org/project/throughline/) 3.11.0 or later. A `tl` older than
+3.11.0 reports the reference as `namespace-unresolved`. It pairs naturally with the
+GOV.UK "Vulnerability and penetration testing" guidance in `throughline-govuk-testing`.
 
 ## Shape
 

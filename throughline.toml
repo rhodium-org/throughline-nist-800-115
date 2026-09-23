@@ -2,8 +2,8 @@
 name = "NIST SP 800-115 Information Security Testing (throughline source)"
 format_version = 3
 
-# A throughline *source*: a standalone graph a consuming project composes via
-# throughline-compose, importing it under a namespace (e.g. `nist800115`) and referencing
+# A throughline *source*: a standalone graph a consuming project composes with
+# `tl`, importing it under a namespace (e.g. `nist800115`) and referencing
 # techniques/activities as `nist800115:SR-0001`. The UIDs here are this source's own and
 # immutable; the SP 800-115 section reference (e.g. "NIST SP 800-115 §5.2") lives in
 # `attrs.source_ref`, never in the UID.

@@ -9,7 +9,7 @@ full terms.
 This repository is a throughline *source*: a requirements graph, not a program. It
 expresses NIST Special Publication 800-115, "Technical Guide to Information Security Testing
 and Assessment", as a grounded IDD graph so consuming projects can compose it with
-throughline-compose.
+throughline.
 
 NIST SP 800-115 is a publication of the U.S. National Institute of Standards and Technology
 and is a work of the U.S. federal government; as such it is in the public domain in the
