@@ -11,9 +11,13 @@ expresses NIST Special Publication 800-115, "Technical Guide to Information Secu
 and Assessment", as a grounded IDD graph so consuming projects can compose it with
 throughline.
 
-NIST SP 800-115 is a publication of the U.S. National Institute of Standards and Technology
-and is a work of the U.S. federal government; as such it is in the public domain in the
-United States and may be freely reproduced and derived. The content restated here is derived
-from that publication; each item's attrs.source_ref cites the relevant section. NIST does not
-endorse this repository. The authoritative document is available from NIST at
-https://csrc.nist.gov/pubs/sp/800/115/final.
+NIST SP 800-115 is a publication of the U.S. National Institute of Standards and
+Technology and is a work of the U.S. federal government; as such it is in the public
+domain in the United States (17 U.S.C. Sec. 105). Outside the United States NIST reserves
+its rights, and grants a non-exclusive, perpetual, royalty-free, worldwide right to
+reprint its publications in all formats
+(https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications).
+As NIST asks: Republished courtesy of the National Institute of Standards and Technology.
+The content restated here is derived from that publication; each item's attrs.source_ref
+cites the relevant section. NIST does not endorse this repository. The authoritative
+document is available from NIST at https://csrc.nist.gov/pubs/sp/800/115/final.
