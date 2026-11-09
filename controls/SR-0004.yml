@@ -1,9 +1,10 @@
 uid: SR-0004
 type: system_requirement
-status: approved
+status: proposed
 title: System configuration review
-text: Examine device and host configurations against secure baselines to find weak settings and unnecessary
-  services.
+text: Examine device and host configurations against secure baselines to find weak
+  settings and unnecessary services.
+normative: true
 links:
 - target: UR-0001
   type: implements

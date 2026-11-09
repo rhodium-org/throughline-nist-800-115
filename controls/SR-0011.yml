@@ -1,9 +1,10 @@
 uid: SR-0011
 type: system_requirement
-status: approved
+status: proposed
 title: Password cracking
-text: Attempt to recover passwords from captured hashes or credential stores to validate the strength
-  of authentication.
+text: Attempt to recover passwords from captured hashes or credential stores to validate
+  the strength of authentication.
+normative: true
 links:
 - target: UR-0003
   type: implements

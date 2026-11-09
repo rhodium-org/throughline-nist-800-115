@@ -1,9 +1,10 @@
 uid: UR-0005
 type: user_requirement
-status: approved
+status: proposed
 title: Security assessment execution
-text: Coordinating and carrying out the assessment, analysing results to identify vulnerabilities, and
-  handling assessment data securely.
+text: Coordinating and carrying out the assessment, analysing results to identify
+  vulnerabilities, and handling assessment data securely.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

@@ -1,9 +1,10 @@
 uid: SR-0023
 type: system_requirement
-status: approved
+status: proposed
 title: Conduct root-cause analysis of findings
-text: Analyse the underlying causes of the identified vulnerabilities so mitigation addresses the source,
-  not just the symptom.
+text: Analyse the underlying causes of the identified vulnerabilities so mitigation
+  addresses the source, not just the symptom.
+normative: true
 links:
 - target: UR-0006
   type: implements

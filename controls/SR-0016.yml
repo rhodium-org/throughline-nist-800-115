@@ -1,9 +1,10 @@
 uid: SR-0016
 type: system_requirement
-status: approved
+status: proposed
 title: Select the assessment approach and objectives
-text: Choose the techniques and depth appropriate to the objectives, constraints and risk of the target,
-  and document them in an assessment plan.
+text: Choose the techniques and depth appropriate to the objectives, constraints
+  and risk of the target, and document them in an assessment plan.
+normative: true
 links:
 - target: UR-0004
   type: implements

@@ -1,9 +1,10 @@
 uid: SR-0019
 type: system_requirement
-status: approved
+status: proposed
 title: Coordinate the assessment with stakeholders
-text: Coordinate logistics, access and communication with system owners and operations staff so the assessment
-  runs safely.
+text: Coordinate logistics, access and communication with system owners and operations
+  staff so the assessment runs safely.
+normative: true
 links:
 - target: UR-0005
   type: implements

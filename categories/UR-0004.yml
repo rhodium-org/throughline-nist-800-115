@@ -1,9 +1,10 @@
 uid: UR-0004
 type: user_requirement
-status: approved
+status: proposed
 title: Security assessment planning
-text: Establishing the policy, priorities, approach, rules of engagement and legal basis for an assessment
-  before any testing begins.
+text: Establishing the policy, priorities, approach, rules of engagement and legal
+  basis for an assessment before any testing begins.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

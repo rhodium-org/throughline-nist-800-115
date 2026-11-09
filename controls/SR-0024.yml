@@ -1,9 +1,10 @@
 uid: SR-0024
 type: system_requirement
-status: approved
+status: proposed
 title: Report findings with risk-based recommendations
-text: Produce a report that communicates findings, their risk, and prioritised, actionable recommendations
-  for both technical and management audiences.
+text: Produce a report that communicates findings, their risk, and prioritised, actionable
+  recommendations for both technical and management audiences.
+normative: true
 links:
 - target: UR-0006
   type: implements

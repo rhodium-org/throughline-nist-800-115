@@ -1,9 +1,10 @@
 uid: SR-0017
 type: system_requirement
-status: approved
+status: proposed
 title: Establish rules of engagement
-text: Agree written rules of engagement defining scope, timing, permitted techniques, handling of sensitive
-  findings and escalation before testing.
+text: Agree written rules of engagement defining scope, timing, permitted techniques,
+  handling of sensitive findings and escalation before testing.
+normative: true
 links:
 - target: UR-0004
   type: implements

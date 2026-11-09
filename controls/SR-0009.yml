@@ -1,9 +1,10 @@
 uid: SR-0009
 type: system_requirement
-status: approved
+status: proposed
 title: Vulnerability scanning
-text: Use automated scanners to identify known vulnerabilities and misconfigurations on hosts and services,
-  and to inform later validation.
+text: Use automated scanners to identify known vulnerabilities and misconfigurations
+  on hosts and services, and to inform later validation.
+normative: true
 links:
 - target: UR-0002
   type: implements

@@ -1,9 +1,10 @@
 uid: UR-0002
 type: user_requirement
-status: approved
+status: proposed
 title: Target identification and analysis techniques
-text: Techniques that identify systems, ports, services and potential vulnerabilities, generally active
-  but not intended to exploit them.
+text: Techniques that identify systems, ports, services and potential vulnerabilities,
+  generally active but not intended to exploit them.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

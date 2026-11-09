@@ -1,9 +1,10 @@
 uid: SR-0021
 type: system_requirement
-status: approved
+status: proposed
 title: Analyze results to identify vulnerabilities
-text: Analyse and correlate findings from the techniques to identify, characterise and rate the vulnerabilities
-  present.
+text: Analyse and correlate findings from the techniques to identify, characterise
+  and rate the vulnerabilities present.
+normative: true
 links:
 - target: UR-0005
   type: implements

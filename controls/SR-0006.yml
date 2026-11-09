@@ -1,9 +1,10 @@
 uid: SR-0006
 type: system_requirement
-status: approved
+status: proposed
 title: File integrity checking
-text: Compare file checksums against a known-good baseline to detect unauthorised changes to critical
-  files.
+text: Compare file checksums against a known-good baseline to detect unauthorised
+  changes to critical files.
+normative: true
 links:
 - target: UR-0001
   type: implements

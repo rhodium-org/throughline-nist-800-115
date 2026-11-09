@@ -1,9 +1,11 @@
 uid: SR-0012
 type: system_requirement
-status: approved
+status: proposed
 title: Penetration testing
-text: Attempt to exploit identified vulnerabilities in a controlled way, following the planning, discovery,
-  attack and reporting phases, to demonstrate real-world impact.
+text: Attempt to exploit identified vulnerabilities in a controlled way, following
+  the planning, discovery, attack and reporting phases, to demonstrate real-world
+  impact.
+normative: true
 links:
 - target: UR-0003
   type: implements

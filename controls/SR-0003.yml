@@ -1,9 +1,10 @@
 uid: SR-0003
 type: system_requirement
-status: approved
+status: proposed
 title: Ruleset review
-text: Examine firewall, router and IDS/IPS rulesets for gaps, overly permissive rules and inconsistencies
-  with policy.
+text: Examine firewall, router and IDS/IPS rulesets for gaps, overly permissive rules
+  and inconsistencies with policy.
+normative: true
 links:
 - target: UR-0001
   type: implements

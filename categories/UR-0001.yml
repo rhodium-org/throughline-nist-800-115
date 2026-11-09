@@ -1,9 +1,10 @@
 uid: UR-0001
 type: user_requirement
-status: approved
+status: proposed
 title: Review techniques
-text: Passive, examination-based techniques that assess systems, applications, networks, policies and
-  procedures without actively exercising the target.
+text: Passive, examination-based techniques that assess systems, applications, networks,
+  policies and procedures without actively exercising the target.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

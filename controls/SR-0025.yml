@@ -1,8 +1,10 @@
 uid: SR-0025
 type: system_requirement
-status: approved
+status: proposed
 title: Remediate and track mitigation
-text: Feed findings into a remediation process that mitigates the weaknesses and tracks them to closure.
+text: Feed findings into a remediation process that mitigates the weaknesses and
+  tracks them to closure.
+normative: true
 links:
 - target: UR-0006
   type: implements

@@ -1,9 +1,10 @@
 uid: SR-0018
 type: system_requirement
-status: approved
+status: proposed
 title: Address legal considerations and authorization
-text: Obtain explicit authorization and address legal and privacy considerations so the assessment is
-  lawful and its testers are protected.
+text: Obtain explicit authorization and address legal and privacy considerations
+  so the assessment is lawful and its testers are protected.
+normative: true
 links:
 - target: UR-0004
   type: implements

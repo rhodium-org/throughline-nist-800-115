@@ -1,8 +1,10 @@
 uid: SR-0005
 type: system_requirement
-status: approved
+status: proposed
 title: Network sniffing
-text: Passively capture network traffic to identify hosts, protocols, cleartext data and unexpected communications.
+text: Passively capture network traffic to identify hosts, protocols, cleartext data
+  and unexpected communications.
+normative: true
 links:
 - target: UR-0001
   type: implements
